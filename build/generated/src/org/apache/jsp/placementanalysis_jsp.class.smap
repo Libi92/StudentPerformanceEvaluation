@@ -1,0 +1,22 @@
+SMAP
+placementanalysis_jsp.java
+JSP
+*S JSP
+*F
++ 0 placementanalysis.jsp
+placementanalysis.jsp
+*L
+5,51:49
+56,32:101
+87,2:133
+89:135,3
+90:138
+91:139,3
+92,2:142
+94:144,3
+95,2:147
+97:149,3
+98,2:152
+100:154,3
+101,10:157
+*E
